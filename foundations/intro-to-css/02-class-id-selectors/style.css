@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+p{
+    background-color: rgb(255, 148, 148);
+    font-family: 'Verdana','DejaVu Sans', 'sans-serif';
+}
+
+#first{
+   color: blue;
+   font-size: 36px;
+}
+
+#second{
+    background-color: rgb(186, 255, 186);
+    font-weight: bold;
+    font-size: 24px;
+}
